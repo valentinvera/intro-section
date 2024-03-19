@@ -20,8 +20,8 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-CG2moHe_3e]
+- Live Site URL: [https://intro-section-front-mentor.vercel.app/]
 
 ### Built with
 
