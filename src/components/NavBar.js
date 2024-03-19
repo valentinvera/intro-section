@@ -360,7 +360,7 @@ class NavBar extends HTMLElement {
         <div class="nav__bg"></div>
         <a href="#">
           <figure class="nav__img">
-            <img src="assets/logo.svg">
+            <img src="assets/logo.svg" alt="Logo main">
           </figure>
         </a>
 
@@ -374,7 +374,7 @@ class NavBar extends HTMLElement {
               <button class="nav__parent" checked>
                 Features
                 <figure>
-                  <img src="assets/icon-arrow-down.svg" class="nav__arrow">            
+                  <img src="assets/icon-arrow-down.svg" class="nav__arrow" alt="Icon of arrow">            
                 </figure>
               </button>
 
@@ -383,7 +383,7 @@ class NavBar extends HTMLElement {
                 <li class="nav__dropdown">
                   <a href="#" class="nav__link">
                     <figure>
-                      <img src="assets/icon-todo.svg" class="nav__illustration">
+                      <img src="assets/icon-todo.svg" class="nav__illustration" alt="Icon of todo">
                     </figure>
                     Todo List
                   </a>
@@ -392,7 +392,7 @@ class NavBar extends HTMLElement {
                 <li class="nav__dropdown">
                   <a href="#" class="nav__link">
                     <figure>
-                      <img src="assets/icon-calendar.svg" class="nav__illustration">
+                      <img src="assets/icon-calendar.svg" class="nav__illustration" alt="Icon of calendar">
                     </figure>
                     Calendar
                   </a>
@@ -401,7 +401,7 @@ class NavBar extends HTMLElement {
                 <li class="nav__dropdown">
                   <a href="#" class="nav__link">
                     <figure>
-                      <img src="assets/icon-reminders.svg" class="nav__illustration">
+                      <img src="assets/icon-reminders.svg" class="nav__illustration" alt="Icon of reminders">
                     </figure>
                     Reminders
                   </a>
@@ -410,7 +410,7 @@ class NavBar extends HTMLElement {
                 <li class="nav__dropdown">
                   <a href="#" class="nav__link">
                     <figure>
-                      <img src="assets/icon-planning.svg" class="nav__illustration">
+                      <img src="assets/icon-planning.svg" class="nav__illustration" alt="Icon of planning">
                     </figure>
                     Planning
                   </a>
@@ -425,7 +425,7 @@ class NavBar extends HTMLElement {
               <button class="nav__parent">
                 Company
                 <figure>
-                  <img src="assets/icon-arrow-down.svg" class="nav__arrow">            
+                  <img src="assets/icon-arrow-down.svg" class="nav__arrow" alt="Icon of arrow">            
                 </figure>
               </button>
 

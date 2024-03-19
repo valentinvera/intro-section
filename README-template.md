@@ -34,5 +34,5 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ## Author
 
-- Website - [Add your name here](https://www.valentinvera.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/valentinvera)
+- Website - [https://www.valentinvera.vercel.app]
+- Frontend Mentor - [@https://www.frontendmentor.io/profile/valentinvera]

@@ -125,7 +125,7 @@ class HeroMain extends HTMLElement {
 
           <source srcset="assets/image-hero-desktop.png" class="main__img" media="(min-width: 900px)">
 
-          <img src="assets/image-hero-mobile.png" class="main__img">
+          <img src="assets/image-hero-mobile.png" class="main__img" alt="Man using a notebook">
 
         </picture>
 
@@ -140,10 +140,10 @@ class HeroMain extends HTMLElement {
           </div>
 
           <div class="main__brands">
-            <img src="assets/client-databiz.svg" class="main__brand">
-            <img src="assets/client-audiophile.svg" class="main__brand">
-            <img src="assets/client-meet.svg" class="main__brand">
-            <img src="assets/client-maker.svg" class="main__brand">
+            <img src="assets/client-databiz.svg" class="main__brand" alt="Logo of databiz">
+            <img src="assets/client-audiophile.svg" class="main__brand" alt="Logo of audiophile">
+            <img src="assets/client-meet.svg" class="main__brand" alt="Logo of meet">
+            <img src="assets/client-maker.svg" class="main__brand" alt="Logo of maker">
           </div>
 
         </article>
