@@ -1,0 +1,16 @@
+:root {
+  --almost-white: hsl(0deg 0% 98%);
+  --medium-gray: hsl(0deg 0% 41%);
+  --almost-black: hsl(0deg 0% 8%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Epilogue", sans-serif;
+  background-color: var(--almost-white);
+}
